@@ -1,2 +1,4 @@
-# graphql-geojson-schema
-GraphQL GeoJson Schema 
+# GraphQL GeoJson Schema 
+
+GraphQL schema types for GeoJson primitives.
+
